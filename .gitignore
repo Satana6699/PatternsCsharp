@@ -12,7 +12,10 @@
 /[Ll]ogs/
 /[Pp]ackages/
 /[Pp]rojectSettings/
-/[Uu]serSettings/
+/[Aa]pp/
+/[Pp]ackages/
+/[Ss]criptTemplates/
+/[Aa]ddressableAssetsData/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
